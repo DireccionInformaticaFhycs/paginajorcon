@@ -239,11 +239,31 @@
     opacity: 1;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e66d0583e1d5b1b7a6e8e900cb959bdaa523d60
 /*** Service ***/
 .service-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .06);
 }
 
+<<<<<<< HEAD
+=======
+
+/*** Donate ***/
+.donate {
+    background: rgba(0, 29, 35, .8);
+}
+
+.btn-group .btn-light:hover,
+.btn-group input[type="radio"]:checked+label {
+    color: var(--primary);
+    border-color: var(--primary);
+}
+
+
+>>>>>>> 0e66d0583e1d5b1b7a6e8e900cb959bdaa523d60
 /*** Team ***/
 .team-item img {
     position: relative;
